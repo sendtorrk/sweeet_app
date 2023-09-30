@@ -20,4 +20,4 @@ Sweeet is a free Apple iOS app that helps users to connect with people and have 
 | --- | --- | --- | 
 | How to customize app ? | Go to Settings view and you can customize various settings. | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/6536863e-2520-4be7-ba77-a6aa104344e0) |
 | How to report or flag user ? | In the table view, swipe on the appropriate row and select "Report" option. | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/3f5386fe-6d23-4001-8cca-3536c96ab15f) |
-| How to block/unblock user ? | | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/e93e36e7-ae22-479d-8a2a-b99f6ffe85db) |
+| How to block/unblock user ? | To block user: In the table view, swipe on the appropriate row and select "Block" option. To unblock user: First enable "Show Blocked Users" and then in the table view, swipe on the appropriate row and select "Unblock" option. | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/e93e36e7-ae22-479d-8a2a-b99f6ffe85db) |
