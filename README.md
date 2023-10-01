@@ -4,11 +4,12 @@
 
 Sweeet is a free Apple iOS app that helps users to connect with people and have real conversations about what matters most to them.
 
+Note: I don't have time to maintain this app. It's no longer available for download from the app store.
+
 # How Sweeet Works ?
 
 |  |  |
 | --- | --- |
-| Download the app from app store | Note: I don't have time to maintain this app. It's no longer available in app store. |
 | Launch app and accept license | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/67472831-6cf3-4473-8a0a-9f33dbf2c94d) |
 | Enter your name and add photo | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/3cf2ab24-2fc0-45d3-9e33-f4ae27dfd943) |
 | Enter the things that you would like to talk about | ![image](https://github.com/sendtorrk/sweeet_app/assets/48602530/d24ecb10-aec0-4ae4-828e-126e10419b66) |
